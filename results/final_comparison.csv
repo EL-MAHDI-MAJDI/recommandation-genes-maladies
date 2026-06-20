@@ -1,0 +1,6 @@
+Méthode,Catégorie,AUC-ROC
+GAE+Random Forest,GAE,0.6956
+CN Bipartite,Baseline,0.5751
+GAE+Régression Logistique,GAE,0.5608
+N2V+Random Forest,Node2Vec,0.4025
+N2V+Régression Logistique,Node2Vec,0.3436

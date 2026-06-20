@@ -1,0 +1,7 @@
+Méthode,AUC-ROC,Avg Precision,P@50
+CN Bipartite,0.5751,0.5752,1.0
+Jaccard Bipartite,0.5751,0.5758,1.0
+Adamic-Adar Bipartite,0.5751,0.5755,1.0
+Resource Alloc. Bip.,0.575,0.5753,1.0
+Score Combiné,0.3784,0.6197,1.0
+Preferential Attachment,0.3704,0.5945,1.0
